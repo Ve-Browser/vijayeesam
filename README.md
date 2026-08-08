@@ -1,40 +1,52 @@
 <h1 align="center">Vijay Eesam</h1>
-<p align="center"><b>Founder &amp; Chief Scientist @ <a href="https://ve.ai">Ve</a> — the intent company.</b></p>
-<p align="center"><i>The loudest decade of computing is ending. I'm building what comes after.</i></p>
+
+<p align="center"><b>Founder &amp; Chief Scientist at <a href="https://ve.ai">Ve</a>, the browser for the AI age.</b></p>
+
+<p align="center"><i>Where people and AI work through the web together.</i></p>
 
 ---
 
-### What I believe
-
-In 1995, Mark Weiser named **calm computing** at Xerox PARC — *technology that
-informs but doesn't demand your attention.* It took thirty years and the LLM era
-to make it real. I'm building the first company that chooses calm.
-
-Not software you summon, prompt, and dismiss. A presence at your cursor —
-already with you, quiet until it matters, right when it speaks.
-
 ### What I'm building
 
-**Ve lives at the cursor.** Press a key in any textbox and Ve reads the room —
-the thread, the relationship, the slot you have free — and writes the reply you
-were already going to write. Nothing leaves your machine without you pressing the
-key yourself.
+Nearly everything we use to work now lives behind a browser tab. The browser stayed
+passive through all of it. It opens pages, keeps history, and waits for us to connect
+everything by hand.
 
-> The mind is three seconds ahead of the hands.
-> **That gap is where Ve lives.**
+**AI changes what the browser can become.** Ve gives intelligence a persistent, secure
+place to understand the work, use the tools already open, and carry an outcome forward
+across websites, files, accounts and time. Not AI sitting beside the browser. AI inside
+the thing that already holds the work.
 
-### Why it matters
+So Ve remembers why each tab is open and what you were trying to finish. It stages the
+next useful tab, reply or action inline. And it can act, with people and agents operating
+real tools on the real web without rebuilding the context first.
 
-Attention is the scarce resource of the next decade. Every other AI product is
-loud — it interrupts, waits to be summoned, lives in a slash command. The company
-that respects attention wins. That's the one I'm building.
+### The part I care most about
+
+AI made production abundant. It did not make good outcomes abundant. A company can now
+generate more code, designs and campaigns than ever and still be unable to say which of
+it improved the product.
+
+That gap is a missing feedback loop. Agents finish work but rarely learn whether the work
+achieved what it was for. So Ve organises work in Missions that state up front what should
+become true, then goes back to check, comparing what happened with what was intended.
+Where the evidence is thin it says so instead of claiming a win.
+
+When a result holds up, Ve keeps the conditions and reasoning that produced it as a Proven
+Path, and the next attempt starts from there instead of an empty prompt.
+
+> Company memory preserves what happened.
+> **A Proven Path preserves what worked, under which conditions, and with what evidence.**
+
+Humans stay responsible for ideas, judgment, taste and direction. They should not spend
+their intelligence manually reconnecting software that has forgotten why the work exists.
 
 ---
 
 <p align="center">
-🌐 <a href="https://ve.ai">ve.ai</a> &nbsp;·&nbsp;
-📫 <a href="mailto:vijay@ve.ai">vijay@ve.ai</a> &nbsp;·&nbsp;
-💼 <a href="https://www.linkedin.com/in/vijayeesam">LinkedIn</a> &nbsp;·&nbsp;
-🏢 <a href="https://github.com/veaiinc">@veaiinc</a> &nbsp;·&nbsp;
-📍 San Francisco
+<a href="https://ve.ai">ve.ai</a> &nbsp;·&nbsp;
+<a href="mailto:vijay@ve.ai">vijay@ve.ai</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/vijayeesam">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/veaiinc">@veaiinc</a> &nbsp;·&nbsp;
+San Francisco
 </p>
