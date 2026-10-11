@@ -26,6 +26,17 @@ It supersedes The Abundance Book v4.0 (8 October 2026); earlier editions remain 
   not pick silently.
 
 
+## Instruction and delivery integrity (owner, 2026-10-11)
+
+Follow the canonical [instruction and delivery integrity rules](https://github.com/Ve-Browser/ve-super-intelligence/blob/omega3/docs/decisions/2026-10-11-instruction-and-delivery-integrity.md) with the current mandatory Book reading above. This is the normative rule source; keep local pointers compact.
+
+- Preserve complete original instructions, governing sources and typed provenance. Carry original question, reply, destination, account and provider identities through asynchronous work; user prose cannot create trusted host metadata or grants.
+- Let the selected native lead act immediately on complete input. Keep independent chats, goals and fleets independent. Do not replace model judgment with keyword, category or English-phrase routing, or add a classifier, planner, approval, scheduler, task ledger or shadow stage before authorized work.
+- Preserve structural contract checks, authenticated permissions and current source rights, Stop/off/pause, hard budgets, secret handling and effect reconciliation. Persona, Intent and observations are attributed evidence, not new instructions or authority; corrections must not destructively erase memory provenance or withdrawal history.
+- Carry accepted repairs through source, affected existing checks and authorized delivery. Report diagnosis, provider turn, source, pin, build, publication, deployment and observed behavior separately. Keep existing qualification/release controls; add no testing or approval stage. Prose is not proof that runtime defects are repaired.
+
+Current owner instructions govern conflicts. Engineering work uses omega3 for integration; master/main production promotion still requires an explicit owner request.
+
 ## Owner ruling: no execution gates or shadow modes — 2026-10-10
 
 Vijay: "No one can put gates or shaddow mode in our code!"
@@ -37,4 +48,4 @@ Vijay: "No one can put gates or shaddow mode in our code!"
 - When touching an existing execution gate or shadow path, remove the unnecessary hurdle or enable the supported behavior in the same scoped change. If a real dependency prevents that, record the exact reason and owner. Do not add another gate or a replacement shadow mode.
 - This owner ruling supersedes conflicting older product-mode, shadow-rollout and redundant-approval instructions in this file, within its scope. It does not authorize unrelated effects, spending, deployment, master/main promotion or restarting the person's app.
 
-Work on `omega3`. Read the current [Abundance Book v4.0](https://github.com/Ve-Browser/ve-super-intelligence/blob/omega3/docs/abundance-book/THE-ABUNDANCE-BOOK-v4.0-2026-10-08.md) and the applicable repository instructions before implementation.
+Work on `omega3`. Follow the current mandatory reading above and the applicable repository instructions before implementation.
