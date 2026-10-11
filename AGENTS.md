@@ -1,5 +1,31 @@
 # Agent instructions
 
+## Mandatory reading: The Abundance Book v5.0 Unified (owner, 2026-10-11)
+
+Vijay: every agent, and every new agent that joins omega3, reads this book before it works.
+Edition 5.0 Unified (11 October 2026) is the main product and engineering specification.
+It supersedes The Abundance Book v4.0 (8 October 2026); earlier editions remain source history only.
+
+- Book (PDF, authoritative, 193 pages): https://github.com/Ve-Browser/ve-super-intelligence/blob/omega3/docs/abundance-book/THE-ABUNDANCE-BOOK-v5.0-UNIFIED-2026-10-11.pdf
+- Text version for agents that cannot read PDF (page-marked; read by section): https://github.com/Ve-Browser/ve-super-intelligence/blob/omega3/docs/abundance-book/THE-ABUNDANCE-BOOK-v5.0-UNIFIED-2026-10-11.md
+- Required for everyone before any change: the opening ("Read this first"), the Contents,
+  and Part I (chapters 1-5, including chapter 4, "The product constitution"). Then every part
+  for your area: Part II responsibility, judgment and the execution core (6-12); Part III
+  understanding the engineer and engineering world (13-19); Part IV intent as interface
+  (20-26); Part V engineering platform (27-34); Part VI discovery, security and continuing
+  initiative (35-40); Part VII abundant execution (41-44); Part VIII people and surfaces
+  (45-49); Part IX a system that learns to build itself (50-54); Part X first value and
+  delivery (55-60); and the appendices you implement against (A capabilities, B logical
+  contracts, C implementation packages, D evaluation, E model roles, F interactive design,
+  G learning and glossary, H sources and decisions). Leads and integration owners read all of it.
+- Your first report names the sections you read. Briefs to subagents must carry this pointer.
+- The book is a specification, not proof. It does not show anything is built, deployed or
+  observed; check source. Owner rulings in this file and Vijay's live instructions win over the
+  book; a later explicit owner decision supersedes a conflicting book clause in its scope (for
+  example, 8 October: Ve Code parallelizes by default, with guardrails). Report a conflict; do
+  not pick silently.
+
+
 ## Owner ruling: no execution gates or shadow modes — 2026-10-10
 
 Vijay: "No one can put gates or shaddow mode in our code!"
